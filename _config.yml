@@ -2,7 +2,7 @@ title: Zjc_Keats.GitHub.io
 description: 赵继超个人技术博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
